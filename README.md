@@ -1,2 +1,2 @@
-# dialogware.pl
-www.dialogware.pl
+# www.dialogware.pl
+
